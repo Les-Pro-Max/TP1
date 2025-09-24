@@ -77,9 +77,9 @@ gcc somme_matrices.c -o somme
 
 * TEDOM TAFOTSI DIMITRI WILFRIED 23V2180
 * Membre B
-* Membre C
+* BAKWO NKEN BERNARDIN ULRICH 23V2277
 * Membre D
-* Membre E
+* BAKWO NKEN BERNARDIN ULRICH 23V2277
 * Membre F
 * Membre G
 * Membre H
