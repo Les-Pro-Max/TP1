@@ -1,4 +1,3 @@
-// somme_matrices.c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -37,7 +36,6 @@ void somme_matrices(int **A, int **B, int **C, int lignes, int colonnes) {
 int main() {
     int lignes = 3, colonnes = 3;
     
-    // Création des matrices
     int **A = creer_matrice(lignes, colonnes);
     int **B = creer_matrice(lignes, colonnes);
     int **C = creer_matrice(lignes, colonnes);
@@ -55,16 +53,14 @@ int main() {
     printf("\nMatrice B:\n");
     afficher_matrice(B, lignes, colonnes);
     
-    // Calcul de la somme
     somme_matrices(A, B, C, lignes, colonnes);
     
     printf("\nMatrice C = A + B:\n");
     afficher_matrice(C, lignes, colonnes);
     
-    // Libération de la mémoire
     liberer_matrice(A, lignes);
     liberer_matrice(B, lignes);
     liberer_matrice(C, lignes);
-    
+    //branch * feat/somme-matrices
     return 0;
 }
