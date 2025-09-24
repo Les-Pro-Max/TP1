@@ -1,4 +1,3 @@
-// produit_matrices.c
 #include <stdio.h>
 #include <stdlib.h>
 

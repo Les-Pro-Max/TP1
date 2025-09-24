@@ -48,7 +48,7 @@ src/
 - **BAKWO NKEN BERNARDIN ULRICH** → Exo 5 : Tester si un tableau est trié  
 - **LOTUE THRECIA J. KAMGA** → Exo 6 : Médiane  
 - **LOTUE THRECIA J. KAMGA** → Exo 7 : Inverser un tableau  
-- **SIGHE NDE JACQUES NEHEMIE** → Exo 8 : Produit vectoriel  
+- **SARMBOYE PAULINE FIDÈLE** → Exo 8 : Produit vectoriel  
 - **SIGHE NDE JACQUES NEHEMIE** → Exo 9 : Produit vecteur × matrice  
 
 *(Adapter selon la composition de l’équipe)*
