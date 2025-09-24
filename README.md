@@ -41,8 +41,9 @@ src/
 
 ## 👨‍💻 Attribution des exercices
 
-- **Membre A** → Exo 1 : Somme de matrices  
-- **Membre B** → Exo 2 : Produit de matrices  
+
+- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 1 : Somme de matrices  
+- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 2 : Produit de matrices  
 - **Membre C** → Exo 3 : Recherche séquentielle  
 - **Membre D** → Exo 4 : Multiplication a×b  
 - **Membre E** → Exo 5 : Tester si un tableau est trié  
@@ -80,6 +81,7 @@ gcc somme_matrices.c -o somme
 * Membre C
 * Membre D
 * Membre E
+* BAKWO NKEN BERNARDIN ULRICH 23V2277
 * Membre F
 * Membre G
 * Membre H
