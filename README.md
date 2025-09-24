@@ -43,13 +43,13 @@ src/
 
 - **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 1 : Somme de matrices  
 - **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 2 : Produit de matrices  
-- **Membre C** → Exo 3 : Recherche séquentielle  
-- **Membre D** → Exo 4 : Multiplication a×b  
-- **Membre E** → Exo 5 : Tester si un tableau est trié  
-- **Membre F** → Exo 6 : Médiane  
-- **Membre G** → Exo 7 : Inverser un tableau  
-- **Membre H** → Exo 8 : Produit vectoriel  
-- **Membre I** → Exo 9 : Produit vecteur × matrice  
+- **BAKWO NKEN BERNARDIN ULRICH** → Exo 3 : Recherche séquentielle  
+- **POUTH LUCKY GRACIA** → Exo 4 : Multiplication a×b  
+- **BAKWO NKEN BERNARDIN ULRICH** → Exo 5 : Tester si un tableau est trié  
+- **LOTUE THRECIA J. KAMGA** → Exo 6 : Médiane  
+- **LOTUE THRECIA J. KAMGA** → Exo 7 : Inverser un tableau  
+- **SIGHE NDE JACQUES NEHEMIE** → Exo 8 : Produit vectoriel  
+- **SIGHE NDE JACQUES NEHEMIE** → Exo 9 : Produit vecteur × matrice  
 
 *(Adapter selon la composition de l’équipe)*
 
@@ -76,12 +76,9 @@ gcc somme_matrices.c -o somme
 Équipe **Les Pro Max** 💻✨
 
 * TEDOM TAFOTSI DIMITRI WILFRIED 23V2180
-* Membre B
+* SIGHE NDE JACQUES NEHEMIE 24G2728
 * BAKWO NKEN BERNARDIN ULRICH 23V2277
-* Membre D
-* BAKWO NKEN BERNARDIN ULRICH 23V2277
-* Membre F
-* Membre G
-* Membre H
-* Membre I
+* LOTUE THRECIA J. KAMGA  24G2297
+* POUTH LUCKY GRACIA 24H2570
+* SARMBOYE PAULINE FIDÈLE 18S2467
 
