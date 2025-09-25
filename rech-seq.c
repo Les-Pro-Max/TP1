@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-
 // Recherche séquentielle simple - retourne l'indice ou -1
 int recherche_sequentielle(int tableau[], int taille, int valeur) {
     for (int i = 0; i < taille; i++) {
