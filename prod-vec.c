@@ -162,5 +162,6 @@ int main() {
     afficher_vecteur(normal, "Vecteur normal");
     printf("Norme du vecteur normal: %.2f\n", norme_vecteur(normal));
     
+    
     return 0;
 }
